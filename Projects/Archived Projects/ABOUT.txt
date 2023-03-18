@@ -1,0 +1,3 @@
+View all completed, retired or archived projects here.
+
+They may consist of tests or commercial projects which got abandoned.
